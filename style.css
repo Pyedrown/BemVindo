@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+#painel {
+    width: 50vmin;
+    height: 50vmin;
+    margin: 20vmin auto;
+    padding: 5vmin;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+
+img {
+    width: 20vmin;
+    height: 20vmin;
+    margin: 5vmin auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+    font-size: 5vmin;
+    font-family: "Andika New Basic", sans-serif;;
+}
